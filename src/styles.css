@@ -63,6 +63,9 @@ section {
     height: 120px;
     font-weight: 100;
   }
+  small{
+      color: #ffff;
+  }
   .khat {
     top: 130px;
     position: relative;
