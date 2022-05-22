@@ -31,7 +31,7 @@ section {
     /* background-attachment: fixed; */
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url("images/darksky.jpg") !important;
+    background-image: url("/images/darksky.jpg") !important;
   }
   .rightside {
     background-color: rgb(49, 41, 49);
